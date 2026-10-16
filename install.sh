@@ -4,3 +4,5 @@ a=('foot' 'mako' 'fuzzel' 'waybar' 'ncmpcpp' 'mpv' 'niri' 'yazi' 'btop' 'nvim')
 for i in "${a[@]}"; do
           cp -r ./$i/* ~/.config/$i/
 done
+
+cp ./bash/.bashrc ~/.bashrc
