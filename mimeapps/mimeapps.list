@@ -1,0 +1,8 @@
+[Default Applications]
+image/png=mpv.desktop
+image/jpeg=mpv.desktop
+image/jpg=mpv.desktop
+video/mp4=mpv.desktop
+video/webm=mpv.desktop
+video/mkv=mpv.desktop
+x-scheme-handler/discord=vesktop.desktop
