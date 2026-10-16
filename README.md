@@ -2,6 +2,7 @@
 
 These are my current **dotfiles** for:
 * btop;
+* bash;
 * foot;
 * fuzzel;
 * ncmpcpp;
@@ -22,9 +23,8 @@ Also comes with `.config/mimeapps.list` and an install script for the sake of co
 ![Neovim](./screenshots/1-neovim.png)
 ![Niri](./screenshots/1.png)
 ![Mako](./screenshots/1-mako.png)
-![MPV (it's ween, baby)](./screenshots/1-mpv.png)
-![Waybar](./screenshots/1-waybar.png)
-![Yazi](.screenshots/1-yazi.png)
+![MPV](./screenshots/1-mpv.png)
+![Yazi](./screenshots/1-yazi.png)
 
 # Depedencies
 * wlroots 0.20+
@@ -41,7 +41,7 @@ Also comes with `.config/mimeapps.list` and an install script for the sake of co
 * nmtui
 * swaybg
 * swayidle
-* wlclock
+* [wlclock](https://sr.ht/~leon_plickat/wlclock/)
 * bluetui
 
 # Changelog
