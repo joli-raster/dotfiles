@@ -24,7 +24,7 @@ Also comes with `.config/mimeapps.list` and an install script for the sake of co
 ![Mako](./screenshots/1-mako.png)
 ![MPV (it's ween, baby)](./screenshots/1-mpv.png)
 ![Waybar](./screenshots/1-waybar.png)
-![Yazi (a hard truth!)](.screenshots/1-yazi.png)
+![Yazi](.screenshots/1-yazi.png)
 
 # Depedencies
 * wlroots 0.20+
