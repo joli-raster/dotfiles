@@ -26,7 +26,7 @@ Also comes with `.config/mimeapps.list` and an install script for the sake of co
 ![MPV](./screenshots/1-mpv.png)
 ![Yazi](./screenshots/1-yazi.png)
 
-# Depedencies
+# Dependencies
 * wlroots 0.20+
 * wayland
 * xdg-desktop-portal-wlr
